@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1080472535686",
+    "project_id": "chat-app-7954a",
+    "storage_bucket": "chat-app-7954a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080472535686:android:0c1dd240b639f3acd88707",
+        "android_client_info": {
+          "package_name": "com.example.beautiful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080472535686-97v81ptfbm94mpqcpdv3498d2etdl9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdurGzbQo7P7ChSaJoyJ-Kg19CjX7Lh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080472535686-97v81ptfbm94mpqcpdv3498d2etdl9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080472535686:android:3e13b2ec404dad9fd88707",
+        "android_client_info": {
+          "package_name": "org.msg.firemessage.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080472535686-97v81ptfbm94mpqcpdv3498d2etdl9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdurGzbQo7P7ChSaJoyJ-Kg19CjX7Lh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080472535686-97v81ptfbm94mpqcpdv3498d2etdl9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
